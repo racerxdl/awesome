@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synthesis on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/synthesis/</link>
+    <description>Recent content in synthesis on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://hdl.github.io/awesome/tags/synthesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ghdl-yosys-plugin</title>
+      <link>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NVC</title>
+      <link>https://hdl.github.io/awesome/items/nvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nvc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verilog to Routing (VTR)</title>
+      <link>https://hdl.github.io/awesome/items/vtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vtr/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yosys Open SYnthesis Suite (Yosys)</title>
+      <link>https://hdl.github.io/awesome/items/yosys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/yosys/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parser on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/parser/</link>
+    <description>Recent content in parser on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hdl.github.io/awesome/tags/parser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pyVHDLParser</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlparser/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlparser/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ghdl-yosys-plugin</title>
+      <link>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>hdlConvertor</title>
+      <link>https://hdl.github.io/awesome/items/hdlconvertor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlconvertor/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust_hdl</title>
+      <link>https://hdl.github.io/awesome/items/rust_hdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rust_hdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
